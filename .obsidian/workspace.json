@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/Pydantic.md",
+                "file": "Code Quality/Precommit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libraries/Pydantic.md",
+                "file": "Code Quality/Precommit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libraries/Pydantic.md",
+                "file": "Code Quality/Precommit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Libraries/Pydantic.md"
+                "file": "Code Quality/Precommit.md"
               }
             }
           },
@@ -157,18 +157,19 @@
   },
   "active": "89963389700b8108",
   "lastOpenFiles": [
+    "Code Quality/Flake8.md",
+    "Code Quality/Black.md",
+    "Libraries/Pydantic.md",
+    "Code Quality/Precommit.md",
     "Basics/Init.md",
     "README.md",
     "Object Oriented Programming/ABC.md",
     "Basics",
-    "Libraries/Pydantic.md",
     "Object Oriented Programming",
     "Basics/Untitled.md",
     "Basics/Untitled",
-    "Code Quality/Black.md",
     "Basics",
     "Libraries",
-    "Code Quality/Precommit.md",
     "Virtual Environments/Conda.md",
     "Code Quality",
     "Virtual Environments/Poetry.md",

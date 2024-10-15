@@ -1,4 +1,4 @@
-### About
+## About
 - Data validation package used for defining models
 - Benefits:
 	- Schema validation
@@ -6,5 +6,7 @@
 	- Supports serializing/deserializing
 	- Custom types and custom validators
 	- Can generate a JSON Schema from an existing Pydantic schema
-### BaseModel
-### DataCclasses
+## BaseModel
+* Models = structs in C
+* All models inherit from `BaseModel`
+## Dataclasses
