@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Quality/Precommit.md",
+                "file": "Basics/Decorator.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Quality/Precommit.md",
+                "file": "Basics/Decorator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Quality/Precommit.md",
+                "file": "Basics/Decorator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Quality/Precommit.md"
+                "file": "Basics/Decorator.md"
               }
             }
           },
@@ -157,16 +157,17 @@
   },
   "active": "89963389700b8108",
   "lastOpenFiles": [
+    "Basics/Data Classes.md",
+    "Basics/Decorator.md",
+    "Code Quality/Precommit.md",
     "Code Quality/Flake8.md",
     "Code Quality/Black.md",
     "Libraries/Pydantic.md",
-    "Code Quality/Precommit.md",
     "Basics/Init.md",
     "README.md",
     "Object Oriented Programming/ABC.md",
     "Basics",
     "Object Oriented Programming",
-    "Basics/Untitled.md",
     "Basics/Untitled",
     "Basics",
     "Libraries",
